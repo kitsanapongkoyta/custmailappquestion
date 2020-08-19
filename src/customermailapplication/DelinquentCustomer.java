@@ -11,7 +11,7 @@ package customermailapplication;
  * @author sarun
  */
 //make this class a subclass of customer
-public class DelinquentCustomer {
+public class DelinquentCustomer extends Customer {
 
     //Complete this class
     @Override
