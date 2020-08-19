@@ -14,5 +14,9 @@ package customermailapplication;
 public class DelinquentCustomer {
 
     //Complete this class
+    @Override
+    public String createMail() {
+        return "Delinquent Customer";
+    }
     
 }
