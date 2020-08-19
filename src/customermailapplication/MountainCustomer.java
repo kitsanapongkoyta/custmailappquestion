@@ -14,5 +14,8 @@ package customermailapplication;
 public class MountainCustomer  {
 
     //Complete this class
+    public String createMail() {
+        return "Mountain Customer";
+    }
     
 }
